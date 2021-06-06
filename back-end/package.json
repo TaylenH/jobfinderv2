@@ -1,0 +1,16 @@
+{
+  "name": "jobfinderv2",
+  "version": "1.0.0",
+  "description": "An application used to pull software development jobs from various apis",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Taylen Heyder-Nelson",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.13",
+    "redis": "^3.1.2"
+  }
+}
